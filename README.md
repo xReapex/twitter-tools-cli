@@ -11,6 +11,6 @@ Config file can be use from nowhere and must be specified when asked in the cons
 
 ```
 {
-  'bearerToken': '<your_token>'
+  'bearer_token': '<your_token>'
 }
 ```
