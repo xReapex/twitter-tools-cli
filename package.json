@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "nodemon": "^2.0.20",
+    "twitter.js": "^0.14.0"
+  }
+}
