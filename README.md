@@ -1,9 +1,5 @@
 # Useful tools for Twitter!
 
-You will need to generate a "bearer token" to give access to your account, find how [here](https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens).
-
-This token will be request by the application, you can also put it in the config file (**Recommended**)
-
 # Using A Config File
 Config file can be use from nowhere and must be specified when asked in the console.
 
@@ -11,6 +7,10 @@ Config file can be use from nowhere and must be specified when asked in the cons
 
 ```
 {
-  "bearer_token": "<your_token>"
+    "consumerKey": "<your_token>",
+    "consumerSecret": "<your_token>",
+    "accessToken": "<your_token>",
+    "accessTokenSecret": "<your_token>",
+    "bearerToken": "<your_token>"
 }
 ```
