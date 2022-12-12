@@ -1,3 +1,7 @@
 {
-    "bearer_token": "AAAAAAAAAAAAAAAAAAAAANSEQQEAAAAANotTq7eDWMQ5lD8wyWEDQ8aSCsE%3DWdWwfMNvhLbeYyQPA5mosQ7xGrBHqVEI2U0rjw9DDHurFZ3sSX"
+    "consumerKey": "feUciCI3Y5RDvgNRg4hlE3zDM",
+    "consumerSecret": "KyvcWWHy66cX2WKd1STFb7MXvyyRLqFtEBcRzhLRTWAMMfYsrP",
+    "accessToken": "870366499411808258-eKDSHnVxZCoKrSmze9MZU45TpCCfT0i",
+    "accessTokenSecret": "kBxDDaRcDMADhSIzKhJrnup9TgExQ76GVWgdtEoMgE07D",
+    "bearerToken": "AAAAAAAAAAAAAAAAAAAAANSEQQEAAAAA6xTvsLm9C%2FgOAaIKyl%2BuMz%2BNcaQ%3Du2y6Q8HF9Zwo9lyKQcQXG1sNDGkpzJVnBW3nuYIboTaVIOgxVf"
 }
